@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/17531">
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nacd7d6ebe5244c1686b8fbb4e8baf8b1">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nb966beb3dd3d43c296e117d359ec9692">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Plants -- Periodicals</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17531.qioo">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91909</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-18T20:09:22.226257</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4d382a4078b14a68bc1c70f30027b980">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/17531/17531-h/17531-h.htm">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128243</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-01-23T10:12:18</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N07f254d7298e477592bb3f503a3fc299">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:tableOfContents>[37]—Chironia Frutescens.&#13;
+[38]—Viburnum Tinus.&#13;
+[39]—Franklin's Tartar.&#13;
+[40]—Trillium sessile.&#13;
+[41]—Calceolaria pinnata.&#13;
+[42]—Camellia Japonica.&#13;
+[43]—Cistus incanus.&#13;
+[44]—Cyclamen persicum.&#13;
+[45]—Crocus vernus.&#13;
+[46]—Leucojum vernum.&#13;
+[47]—Amaryllis formosissima.&#13;
+[48]—Narcissus triandrus.&#13;
+[49]—Soldanella alpina.&#13;
+[50]—Iris sibirica.&#13;
+[51]—Narcissus major.&#13;
+[52]—Gentiana Acaulis.&#13;
+[53]—Cineraria Lanata.&#13;
+[54]—Anemone Sylvestris.&#13;
+[55]—Geranium striatum.&#13;
+[56]—Geranium Lanceolatum.&#13;
+[57]—Papaver Orientale.&#13;
+[58]—Iris Spuria.&#13;
+[59]—Mesembryanthemum Bicolorum.&#13;
+[60]—Lathyrus odoratus.&#13;
+[61]—Iris ochroleuca.&#13;
+[62]—Centaurea Glastifolia.&#13;
+[63]—Fragaria monophylla.&#13;
+[64]—Hemerocallis fulva.&#13;
+[65]—Clematis integrifolia.&#13;
+[66]—Passiflora alata.&#13;
+[67]—Mesembryanthemum pinnatifidum.&#13;
+[68]—Sempervivum arachnoideum.&#13;
+[69]—Rosa muscosa.&#13;
+[70]—Mesembryanthemum Barbatum.&#13;
+[71]—Statice sinuata.&#13;
+[72]—Helleborus lividus.</dcterms:tableOfContents>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N89bb57481c2d41bfb42af5188d0f63c1">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nbccfea7574dd415890ecc0ccb3d280f0">
+        <rdf:value>Plants, Cultivated -- Periodicals</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <pgterms:marc260>LONDON:&#13;
+&#13;
+Printed by Couchman and Fry, Throgmorton-Street,&#13;
+For W. CURTIS, at his Botanic-Garden, Lambeth-Marsh;&#13;
+And Sold by the principal Booksellers in Great-Britain and Ireland.&#13;
+&#13;
+M DCC XC.</pgterms:marc260>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17531.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">438804</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndbac12a09db94ca1a42ca627a83e0090">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T02:56:30.822311</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/17531/17531.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82747</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-01-23T10:11:24</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nac61d21fe2ac4d209b59e3f85d127aac">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/17531/17531-8.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N7935f7557404413ab410b22be470dfa9">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29930</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N25b5f77418924f9a9735467d5aea60ea">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-01-23T10:12:36</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17531.plucker">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-18T20:09:26.418071</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54047</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3b6c10a0daaf4e0fbbb9bd7d5b521f6e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/7233">
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1799</pgterms:deathdate>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/William_Curtis"/>
+        <pgterms:name>Curtis, William</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1746</pgterms:birthdate>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-01-16</dcterms:issued>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</pgterms:downloads>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/17531/17531.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29909</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N752ba5723a674a229aa301a0e7bcfe70">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-01-23T10:12:36</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndfbe5f2e6e0d414d923349bcf00bb4aa">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N9003a63a4a044da0a9ca544e86c21058">
+        <rdf:value>Botanical illustration -- Periodicals</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nb24e8b724bac4cd69f5455d03c7cca96">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Plants, Ornamental -- Periodicals</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17531.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9d9fa717ef0f40bc87ddd888c482bfe5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54060</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T02:56:27.987153</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17531.txt.utf-8">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T02:56:25.215925</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82720</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N24f327de21b346b3841bea210aa0fdf5">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/17531/17531-h.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-01-23T10:12:38</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2227632</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8539607fbe88464a9f9a75c11073c074">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8c1d0d53f7c641d6854b4f4b68484f7f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/17531/17531-8.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82706</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-01-23T10:10:48</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfa79344d37184292988771468204dc45">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>The Botanical Magazine, Vol. 2&#13;
+or Flower-Garden Displayed</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17531.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Na8e3ca57d26d4a52b1e4986c57c16f59">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">388735</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T02:56:28.631514</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nb205a1bde1024e53b00b98e8b9a1311a">
+        <rdf:value>QK</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17531.kindle.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98576</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5685d44e983b4a11888eee46f412d42e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T02:56:29.484655</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/17531"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+  </cc:Work>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/William_Curtis">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
